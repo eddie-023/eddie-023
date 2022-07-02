@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eddie-023
 - 👀 I’m interested in app and web design
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
